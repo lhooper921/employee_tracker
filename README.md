@@ -16,6 +16,6 @@ So that I can organize and plan my business
 ## Video
 Click the image below to view a demo of this application:
 
-[![Application](https://www.youtube.com/watch?v=bxz8P6Bu0uQ&feature=youtu.be)
+[![Application](https://github.com/lhooper921/employee_tracker/blob/master/Assets/Capture.PNG)](https://youtu.be/bxz8P6Bu0uQ "Employee Tracker Video Capture")
 
 

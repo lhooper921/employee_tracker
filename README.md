@@ -16,6 +16,6 @@ So that I can organize and plan my business
 ## Video
 Click the image below to view a demo of this application:
 
-[![Application](https://youtu.be/bxz8P6Bu0uQ")
+[![Application](https://www.youtube.com/watch?v=bxz8P6Bu0uQ&feature=youtu.be)
 
 
